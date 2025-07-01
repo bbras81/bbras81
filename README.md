@@ -1,29 +1,29 @@
 <h1 align="center">🎸 Bruno Brás</h1>
-<h3 align="center">Músico e Programador | Estudante na 42 Porto</h3>
+<h3 align="center">Musician & Programmer | 42 Porto Student</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bbras81&label=Visualizações&color=0e75b6&style=flat" alt="Perfil Views" />
+  <img src="https://komarev.com/ghpvc/?username=bbras81&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 ---
 
 <p align="center">
-  <em>"Unir a música, a tecnologia e a comunidade é o meu propósito."</em>
+  <em>"Bringing together music, technology, and community is my purpose."</em>
 </p>
 
 ---
 
-## 🧠 Sobre mim
+## 🧠 About Me
 
-🎓 Estudante de programação na [42 Porto](https://42porto.com)  
-🎶 Guitarrista de fado, formador e criador do projeto **Cantares de Ontem e de Hoje**  
-💡 Fascinado por C, sistemas Unix, automação e interfaces gráficas (GUI)  
-🌍 Já vivi e estudei em Lisboa e Hamburgo – de volta ao Porto com novas ideias  
-🔧 Em constante construção (pessoal, musical e profissional)
+🎓 Programming student at [42 Porto](https://42porto.com)  
+🎶 Professional fado guitarist and music educator  
+💡 Passionate about C, Unix systems, automation, and graphical interfaces  
+🌍 I’ve lived and studied in Lisbon and Hamburg — now back in Porto with fresh ideas  
+🔧 Always building — musically, personally, and professionally
 
 ---
 
-## 🛠️ Ferramentas & Linguagens
+## 🛠️ Tools & Languages
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
@@ -36,15 +36,14 @@
 
 ---
 
-## 📌 Projetos em Destaque
+## 📌 Featured Projects
 
-| Projeto | Descrição | Tecnologias |
-|--------|------------|--------------|
-| 🔹 [libft](https://github.com/bbras81/libft) | Biblioteca pessoal em C com funções da libc | C |
-| 🔹 [minitalk](https://github.com/bbras81/minitalk) | Comunicação entre processos via sinais Unix | C, Signals |
-| 🔹 [scripts](https://github.com/bbras81/scripts) | Scripts úteis para automatizar tarefas em Linux | Bash |
-| 🔹 [TalkSee (fork)](https://github.com/bbras81/TalkSee-streamlit) | Web app para comunicação alternativa | Python, Streamlit |
-| 🔹 Cantares de Ontem e de Hoje (em breve) | Projeto musical comunitário com seniores e jovens | Música, Inclusão |
+| Project | Description | Tech |
+|--------|-------------|------|
+| 🔹 [libft](https://github.com/bbras81/libft) | Personal C library with reimplemented libc functions | C |
+| 🔹 [minitalk](https://github.com/bbras81/minitalk) | Process communication using Unix signals | C, Signals |
+| 🔹 [scripts](https://github.com/bbras81/scripts) | Handy Linux shell scripts for automation | Bash |
+| 🔹 [TalkSee (fork)](https://github.com/bbras81/TalkSee-streamlit) | Web app for alternative communication | Python, Streamlit |
 
 ---
 
@@ -57,15 +56,15 @@
 
 ---
 
-## 📫 Contacto
+## 📫 Contact
 
 - 📧 bbras81@student.42porto.com  
-- 🌍 [brunobras.pt](#) *(em construção)*  
-- 🏡 Vila Nova de Gaia / Porto  
-- 🤝 Aberto a colaborações em educação, cultura e tecnologia
+- 🌍 [brunobras.pt](#) *(coming soon)*  
+- 📍 Vila Nova de Gaia / Porto, Portugal  
+- 🤝 Open to collaboration in education, culture, and tech
 
 ---
 
 <p align="center">
-  <strong>“Code com paixão. Cante com alma.”</strong>
+  <strong>"Code with passion. Sing with soul."</strong>
 </p>
